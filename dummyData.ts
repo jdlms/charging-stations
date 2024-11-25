@@ -1,4 +1,4 @@
-[
+export const data = [
   {
     "chargingStations": 5,
     "arrivalProbability": 20,
