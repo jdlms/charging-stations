@@ -1,0 +1,7362 @@
+[
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 20.49,
+    "peakPowerLoad": 6.83,
+    "energyConsumption": {
+      "daily": [
+        0.38,
+        3.6,
+        1.52,
+        3.43,
+        3.98,
+        3.94,
+        3.64
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 19.36,
+    "peakPowerLoad": 13.84,
+    "energyConsumption": {
+      "daily": [
+        1.31,
+        1.1,
+        6.08,
+        1.8,
+        2.82,
+        2.71,
+        3.54
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 19.94,
+    "peakPowerLoad": 22.28,
+    "energyConsumption": {
+      "daily": [
+        0.56,
+        1.27,
+        2.64,
+        4.2,
+        5.3,
+        4,
+        1.97
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 15.8,
+    "peakPowerLoad": 20.17,
+    "energyConsumption": {
+      "daily": [
+        4.17,
+        2.74,
+        0.4,
+        1.42,
+        0.71,
+        2.06,
+        4.3
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 20.49,
+    "peakPowerLoad": 7.48,
+    "energyConsumption": {
+      "daily": [
+        1.27,
+        1.02,
+        5.18,
+        4.56,
+        0.44,
+        4.48,
+        3.53
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 18.11,
+    "peakPowerLoad": 12.35,
+    "energyConsumption": {
+      "daily": [
+        0.66,
+        2.97,
+        1.49,
+        3.29,
+        3.32,
+        3.58,
+        2.8
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 17.38,
+    "peakPowerLoad": 21.45,
+    "energyConsumption": {
+      "daily": [
+        3.1,
+        2.06,
+        4.97,
+        6,
+        0.02,
+        0.92,
+        0.32
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 18.25,
+    "peakPowerLoad": 24.15,
+    "energyConsumption": {
+      "daily": [
+        0.31,
+        0.31,
+        4.98,
+        3,
+        0.78,
+        3.51,
+        5.37
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 24.23,
+    "peakPowerLoad": 5.74,
+    "energyConsumption": {
+      "daily": [
+        3.4,
+        6.07,
+        5.73,
+        5.42,
+        2.07,
+        0.08,
+        1.47
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 23.33,
+    "peakPowerLoad": 12.81,
+    "energyConsumption": {
+      "daily": [
+        0.78,
+        3.24,
+        1.17,
+        6.57,
+        4.69,
+        2.02,
+        4.86
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 20.27,
+    "peakPowerLoad": 18.82,
+    "energyConsumption": {
+      "daily": [
+        2.01,
+        4.68,
+        0.29,
+        3.27,
+        4.4,
+        1.81,
+        3.8
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 20.42,
+    "peakPowerLoad": 24.02,
+    "energyConsumption": {
+      "daily": [
+        3.52,
+        1.61,
+        4.23,
+        3.07,
+        3.07,
+        2.12,
+        2.8
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 20.37,
+    "peakPowerLoad": 7.09,
+    "energyConsumption": {
+      "daily": [
+        3.55,
+        2.81,
+        2.04,
+        0.5,
+        5,
+        2.63,
+        3.84
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 25.38,
+    "peakPowerLoad": 13.01,
+    "energyConsumption": {
+      "daily": [
+        6.01,
+        5.21,
+        0.16,
+        2.74,
+        4.07,
+        1.27,
+        5.94
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 20.54,
+    "peakPowerLoad": 16.28,
+    "energyConsumption": {
+      "daily": [
+        3.51,
+        3.26,
+        1.44,
+        5.89,
+        1.19,
+        2.6,
+        2.65
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 23.19,
+    "peakPowerLoad": 21.95,
+    "energyConsumption": {
+      "daily": [
+        3.69,
+        0.57,
+        4.03,
+        2.28,
+        2.92,
+        5.06,
+        4.63
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 35.22,
+    "peakPowerLoad": 10.5,
+    "energyConsumption": {
+      "daily": [
+        4.04,
+        5.56,
+        5.38,
+        5.04,
+        6.64,
+        4.36,
+        4.22
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 39.98,
+    "peakPowerLoad": 20.05,
+    "energyConsumption": {
+      "daily": [
+        10.55,
+        1.87,
+        8.87,
+        6.78,
+        0.89,
+        3.42,
+        7.59
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 33.1,
+    "peakPowerLoad": 44.14,
+    "energyConsumption": {
+      "daily": [
+        4.46,
+        6.69,
+        9.29,
+        0.06,
+        7.28,
+        4.09,
+        1.23
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 40.6,
+    "peakPowerLoad": 41.85,
+    "energyConsumption": {
+      "daily": [
+        0.41,
+        9.55,
+        9.02,
+        6.9,
+        4.1,
+        5.75,
+        4.88
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 47.31,
+    "peakPowerLoad": 14.24,
+    "energyConsumption": {
+      "daily": [
+        1.07,
+        13.41,
+        14.44,
+        1.2,
+        4.31,
+        12.28,
+        0.59
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 33.21,
+    "peakPowerLoad": 27.36,
+    "energyConsumption": {
+      "daily": [
+        0.28,
+        0.59,
+        4.82,
+        6.3,
+        8.36,
+        4.58,
+        8.27
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 39.48,
+    "peakPowerLoad": 30.98,
+    "energyConsumption": {
+      "daily": [
+        7.37,
+        7.62,
+        6.37,
+        7.75,
+        0.64,
+        3.92,
+        5.81
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 32.16,
+    "peakPowerLoad": 56.82,
+    "energyConsumption": {
+      "daily": [
+        5.85,
+        6.14,
+        5.93,
+        1.85,
+        4.39,
+        2.01,
+        5.99
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 49.51,
+    "peakPowerLoad": 14.55,
+    "energyConsumption": {
+      "daily": [
+        8.37,
+        6.5,
+        2.41,
+        7.16,
+        7.32,
+        12.88,
+        4.88
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 49.56,
+    "peakPowerLoad": 22.29,
+    "energyConsumption": {
+      "daily": [
+        5.93,
+        9.79,
+        5.47,
+        7.18,
+        10.73,
+        0.12,
+        10.34
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 47.8,
+    "peakPowerLoad": 40.04,
+    "energyConsumption": {
+      "daily": [
+        5.22,
+        4.14,
+        7.23,
+        7.35,
+        10.51,
+        3.63,
+        9.72
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 36.6,
+    "peakPowerLoad": 45.87,
+    "energyConsumption": {
+      "daily": [
+        3.79,
+        1.67,
+        2.6,
+        5.99,
+        8.07,
+        7.58,
+        6.89
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 50.64,
+    "peakPowerLoad": 14.45,
+    "energyConsumption": {
+      "daily": [
+        13.51,
+        3.13,
+        0.18,
+        4.35,
+        14.36,
+        1.1,
+        14.01
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 47.92,
+    "peakPowerLoad": 28.31,
+    "energyConsumption": {
+      "daily": [
+        3.05,
+        7,
+        15.95,
+        2.66,
+        5.54,
+        2.83,
+        10.88
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 47.98,
+    "peakPowerLoad": 30.74,
+    "energyConsumption": {
+      "daily": [
+        6.11,
+        4.87,
+        6.97,
+        4.29,
+        9.52,
+        9.81,
+        6.4
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 53.57,
+    "peakPowerLoad": 42.5,
+    "energyConsumption": {
+      "daily": [
+        7.19,
+        5.43,
+        4.48,
+        10.09,
+        5.37,
+        10.82,
+        10.18
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 55.25,
+    "peakPowerLoad": 17.79,
+    "energyConsumption": {
+      "daily": [
+        6.61,
+        0.75,
+        17.88,
+        6.9,
+        4.55,
+        10.1,
+        8.47
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 52.09,
+    "peakPowerLoad": 33.13,
+    "energyConsumption": {
+      "daily": [
+        5.42,
+        4.84,
+        6.58,
+        10.54,
+        10.66,
+        10.26,
+        3.79
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 48.7,
+    "peakPowerLoad": 54.8,
+    "energyConsumption": {
+      "daily": [
+        11.53,
+        8.39,
+        7.14,
+        2.97,
+        9.26,
+        0.15,
+        9.26
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 61.79,
+    "peakPowerLoad": 86.39,
+    "energyConsumption": {
+      "daily": [
+        13.64,
+        5.56,
+        15.19,
+        7.42,
+        9.54,
+        6.47,
+        3.98
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 71.74,
+    "peakPowerLoad": 21.68,
+    "energyConsumption": {
+      "daily": [
+        10.91,
+        3.81,
+        3.81,
+        12.95,
+        6.3,
+        19.25,
+        14.71
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 57.4,
+    "peakPowerLoad": 34.48,
+    "energyConsumption": {
+      "daily": [
+        0.13,
+        16.86,
+        5.11,
+        2.06,
+        14.02,
+        9.63,
+        9.59
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 68.98,
+    "peakPowerLoad": 66.51,
+    "energyConsumption": {
+      "daily": [
+        11.38,
+        11.77,
+        7.94,
+        2.14,
+        8.74,
+        13,
+        14.01
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 69,
+    "peakPowerLoad": 82.31,
+    "energyConsumption": {
+      "daily": [
+        14.76,
+        12.68,
+        14.72,
+        5.91,
+        6.37,
+        0.27,
+        14.29
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 80.01,
+    "peakPowerLoad": 20.53,
+    "energyConsumption": {
+      "daily": [
+        3.24,
+        14.17,
+        22.73,
+        9.68,
+        9,
+        12.36,
+        8.82
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 79.75,
+    "peakPowerLoad": 30.54,
+    "energyConsumption": {
+      "daily": [
+        10.51,
+        22.91,
+        7.82,
+        4.34,
+        17.25,
+        7.74,
+        9.19
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 76.32,
+    "peakPowerLoad": 64.63,
+    "energyConsumption": {
+      "daily": [
+        0.24,
+        8.06,
+        12.99,
+        11.38,
+        16,
+        12.02,
+        15.63
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 79.81,
+    "peakPowerLoad": 78.59,
+    "energyConsumption": {
+      "daily": [
+        16.3,
+        8.8,
+        10.65,
+        2.73,
+        11.16,
+        11.89,
+        18.29
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 80.5,
+    "peakPowerLoad": 20.18,
+    "energyConsumption": {
+      "daily": [
+        13.41,
+        5.15,
+        10.64,
+        1.2,
+        20.55,
+        12.3,
+        17.25
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 73.97,
+    "peakPowerLoad": 37.47,
+    "energyConsumption": {
+      "daily": [
+        16.7,
+        8.43,
+        9.47,
+        0.33,
+        16.02,
+        16.27,
+        6.76
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 80.36,
+    "peakPowerLoad": 54.94,
+    "energyConsumption": {
+      "daily": [
+        18.6,
+        7.68,
+        12.34,
+        15.12,
+        6.54,
+        2.99,
+        17.09
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 63.18,
+    "peakPowerLoad": 71.73,
+    "energyConsumption": {
+      "daily": [
+        1.04,
+        0.68,
+        12.59,
+        9.53,
+        13.83,
+        14.03,
+        11.49
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 66.16,
+    "peakPowerLoad": 24.76,
+    "energyConsumption": {
+      "daily": [
+        6.14,
+        11.55,
+        12.25,
+        12.22,
+        12.99,
+        6.6,
+        4.42
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 66.97,
+    "peakPowerLoad": 56.5,
+    "energyConsumption": {
+      "daily": [
+        13.81,
+        5.88,
+        9.46,
+        12.93,
+        4.08,
+        10.08,
+        10.73
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 79.55,
+    "peakPowerLoad": 68.1,
+    "energyConsumption": {
+      "daily": [
+        11.54,
+        9.5,
+        12.14,
+        11,
+        9.79,
+        10.64,
+        14.94
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 82.81,
+    "peakPowerLoad": 80.88,
+    "energyConsumption": {
+      "daily": [
+        16.84,
+        18.27,
+        0.2,
+        16.72,
+        13.62,
+        9.41,
+        7.75
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 91.22,
+    "peakPowerLoad": 29.2,
+    "energyConsumption": {
+      "daily": [
+        8.57,
+        10.83,
+        3.42,
+        14.22,
+        15.38,
+        16.92,
+        21.88
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 86.24,
+    "peakPowerLoad": 55.23,
+    "energyConsumption": {
+      "daily": [
+        17.56,
+        18.6,
+        14.93,
+        20.42,
+        10.74,
+        2.08,
+        1.92
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 91.01,
+    "peakPowerLoad": 84.87,
+    "energyConsumption": {
+      "daily": [
+        8.86,
+        14.73,
+        14.49,
+        21.24,
+        16.05,
+        7.11,
+        8.52
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 66.62,
+    "peakPowerLoad": 82.52,
+    "energyConsumption": {
+      "daily": [
+        4.56,
+        3.77,
+        2.11,
+        33.33,
+        4.48,
+        7.4,
+        10.97
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 102.06,
+    "peakPowerLoad": 24.71,
+    "energyConsumption": {
+      "daily": [
+        1.85,
+        24,
+        25.51,
+        24.88,
+        6.62,
+        16.81,
+        2.4
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 74.02,
+    "peakPowerLoad": 50.33,
+    "energyConsumption": {
+      "daily": [
+        0.89,
+        13.46,
+        20.72,
+        21.01,
+        3.14,
+        14.43,
+        0.39
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 77.17,
+    "peakPowerLoad": 68.82,
+    "energyConsumption": {
+      "daily": [
+        15.3,
+        13.4,
+        13.16,
+        12.27,
+        13.72,
+        4.45,
+        4.86
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 73.87,
+    "peakPowerLoad": 96.29,
+    "energyConsumption": {
+      "daily": [
+        5.32,
+        3.62,
+        4.75,
+        16.51,
+        24.01,
+        5.22,
+        14.44
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 110.98,
+    "peakPowerLoad": 26.45,
+    "energyConsumption": {
+      "daily": [
+        12.17,
+        27.03,
+        5.87,
+        29.41,
+        5.66,
+        9.12,
+        21.72
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 118.67,
+    "peakPowerLoad": 43.53,
+    "energyConsumption": {
+      "daily": [
+        1.87,
+        13.54,
+        42.71,
+        7.45,
+        7.9,
+        32.63,
+        12.58
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 93.65,
+    "peakPowerLoad": 67.08,
+    "energyConsumption": {
+      "daily": [
+        1.7,
+        21.14,
+        16.95,
+        24.52,
+        3.89,
+        22.61,
+        2.84
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 107.19,
+    "peakPowerLoad": 102.68,
+    "energyConsumption": {
+      "daily": [
+        26.57,
+        26.07,
+        2.93,
+        5.38,
+        32.74,
+        8.84,
+        4.67
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 100,
+    "peakPowerLoad": 31.23,
+    "energyConsumption": {
+      "daily": [
+        17.75,
+        7.88,
+        0.29,
+        13.11,
+        28.66,
+        16.22,
+        16.09
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 75.56,
+    "peakPowerLoad": 55.82,
+    "energyConsumption": {
+      "daily": [
+        15.46,
+        5.12,
+        6.94,
+        11.84,
+        4.67,
+        16.19,
+        15.34
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 87.77,
+    "peakPowerLoad": 96.01,
+    "energyConsumption": {
+      "daily": [
+        7.09,
+        16.25,
+        18.63,
+        10.68,
+        18.11,
+        16.55,
+        0.46
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 99.08,
+    "peakPowerLoad": 106.88,
+    "energyConsumption": {
+      "daily": [
+        9.64,
+        16.87,
+        5.11,
+        11.11,
+        21.29,
+        23.58,
+        11.49
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 111.22,
+    "peakPowerLoad": 36.57,
+    "energyConsumption": {
+      "daily": [
+        11.6,
+        6.71,
+        10.92,
+        7.04,
+        26.83,
+        24.15,
+        23.96
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 119.56,
+    "peakPowerLoad": 55.77,
+    "energyConsumption": {
+      "daily": [
+        12.73,
+        19.57,
+        24.29,
+        23.04,
+        19.22,
+        4.66,
+        16.06
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 93.09,
+    "peakPowerLoad": 89.76,
+    "energyConsumption": {
+      "daily": [
+        2.99,
+        6.65,
+        15.73,
+        19.34,
+        15.98,
+        21.81,
+        10.58
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 85.21,
+    "peakPowerLoad": 118.39,
+    "energyConsumption": {
+      "daily": [
+        27.7,
+        1.56,
+        11.63,
+        11,
+        21.12,
+        9,
+        3.2
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 97.47,
+    "peakPowerLoad": 26.22,
+    "energyConsumption": {
+      "daily": [
+        28.49,
+        14.35,
+        16.64,
+        2.68,
+        20.54,
+        11.49,
+        3.28
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 129.4,
+    "peakPowerLoad": 73.16,
+    "energyConsumption": {
+      "daily": [
+        13.79,
+        22.64,
+        0.67,
+        40.28,
+        10.79,
+        40.58,
+        0.65
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 113.77,
+    "peakPowerLoad": 91.97,
+    "energyConsumption": {
+      "daily": [
+        14.2,
+        24.29,
+        6.62,
+        32.62,
+        20.14,
+        8.96,
+        6.94
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 112.33,
+    "peakPowerLoad": 104.68,
+    "energyConsumption": {
+      "daily": [
+        27.32,
+        21.05,
+        22.66,
+        2.82,
+        26.54,
+        6.39,
+        5.56
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 125.26,
+    "peakPowerLoad": 32.07,
+    "energyConsumption": {
+      "daily": [
+        15.11,
+        2.25,
+        18.74,
+        31.55,
+        29.58,
+        21.58,
+        6.45
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 127.55,
+    "peakPowerLoad": 63.79,
+    "energyConsumption": {
+      "daily": [
+        5.75,
+        36.32,
+        0.1,
+        1.12,
+        53.45,
+        7.24,
+        23.56
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 128.1,
+    "peakPowerLoad": 101.34,
+    "energyConsumption": {
+      "daily": [
+        4.02,
+        23.92,
+        27.41,
+        19.17,
+        25.06,
+        4.42,
+        24.11
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 5,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 132.6,
+    "peakPowerLoad": 121.22,
+    "energyConsumption": {
+      "daily": [
+        40.39,
+        39.39,
+        6.19,
+        10.68,
+        33.36,
+        1.28,
+        1.31
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 41.06,
+    "peakPowerLoad": 13.63,
+    "energyConsumption": {
+      "daily": [
+        0.79,
+        8.03,
+        7.86,
+        5.32,
+        7.71,
+        2.14,
+        9.21
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 30.98,
+    "peakPowerLoad": 29.89,
+    "energyConsumption": {
+      "daily": [
+        0.24,
+        5.76,
+        6.87,
+        6.64,
+        4.03,
+        6.3,
+        1.14
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 29.91,
+    "peakPowerLoad": 42.99,
+    "energyConsumption": {
+      "daily": [
+        5.58,
+        3.73,
+        1.7,
+        1,
+        12.02,
+        3.32,
+        2.57
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 31.17,
+    "peakPowerLoad": 51.58,
+    "energyConsumption": {
+      "daily": [
+        5.26,
+        6.03,
+        4.81,
+        5.47,
+        4.91,
+        1.69,
+        3.01
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 38.92,
+    "peakPowerLoad": 14.24,
+    "energyConsumption": {
+      "daily": [
+        7.45,
+        4.36,
+        7.37,
+        0.66,
+        10.43,
+        1.25,
+        7.4
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 44.51,
+    "peakPowerLoad": 23.33,
+    "energyConsumption": {
+      "daily": [
+        10.32,
+        8.29,
+        5.5,
+        5.57,
+        1.4,
+        7.67,
+        5.77
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 46.95,
+    "peakPowerLoad": 32.17,
+    "energyConsumption": {
+      "daily": [
+        14.25,
+        7.06,
+        0,
+        14.9,
+        5.39,
+        1.8,
+        3.54
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 39.93,
+    "peakPowerLoad": 53.49,
+    "energyConsumption": {
+      "daily": [
+        5.86,
+        0.12,
+        5.76,
+        4.83,
+        7.02,
+        7.14,
+        9.19
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 48.38,
+    "peakPowerLoad": 14.71,
+    "energyConsumption": {
+      "daily": [
+        10.19,
+        9.18,
+        2.5,
+        6.21,
+        3.76,
+        8.36,
+        8.17
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 46.14,
+    "peakPowerLoad": 27.32,
+    "energyConsumption": {
+      "daily": [
+        8.49,
+        1.61,
+        8.74,
+        13.01,
+        7.31,
+        4.94,
+        2.05
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 40.4,
+    "peakPowerLoad": 42.58,
+    "energyConsumption": {
+      "daily": [
+        7.99,
+        6.15,
+        4.42,
+        0.65,
+        8.51,
+        4.4,
+        8.28
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 48.91,
+    "peakPowerLoad": 43,
+    "energyConsumption": {
+      "daily": [
+        7.34,
+        4.48,
+        11.35,
+        5.71,
+        7.65,
+        0.71,
+        11.67
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 40.4,
+    "peakPowerLoad": 10.66,
+    "energyConsumption": {
+      "daily": [
+        8.57,
+        8.56,
+        3.51,
+        4.07,
+        2.09,
+        7.95,
+        5.65
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 54.55,
+    "peakPowerLoad": 27.72,
+    "energyConsumption": {
+      "daily": [
+        8.35,
+        1.88,
+        6.82,
+        8.89,
+        17.64,
+        6.03,
+        4.95
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 41.99,
+    "peakPowerLoad": 41.57,
+    "energyConsumption": {
+      "daily": [
+        1.98,
+        6.74,
+        6.49,
+        7.13,
+        5.32,
+        5.02,
+        9.31
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 50.84,
+    "peakPowerLoad": 52.27,
+    "energyConsumption": {
+      "daily": [
+        0.58,
+        7.68,
+        13.46,
+        13.48,
+        0.8,
+        13.34,
+        1.5
+      ]
+    },
+    "chargingEvents": {
+      "daily": 1,
+      "weekly": 7
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 69.66,
+    "peakPowerLoad": 28.03,
+    "energyConsumption": {
+      "daily": [
+        4.44,
+        9.54,
+        14.25,
+        8.38,
+        4.66,
+        13.91,
+        14.48
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 60.26,
+    "peakPowerLoad": 49.89,
+    "energyConsumption": {
+      "daily": [
+        8.53,
+        9.7,
+        12.21,
+        5.38,
+        5.17,
+        8.62,
+        10.65
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 60,
+    "peakPowerLoad": 89.66,
+    "energyConsumption": {
+      "daily": [
+        13.63,
+        10.63,
+        11.36,
+        3.65,
+        13.79,
+        4.7,
+        2.24
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 81.88,
+    "peakPowerLoad": 108.12,
+    "energyConsumption": {
+      "daily": [
+        25.65,
+        15.16,
+        1.88,
+        14.71,
+        2.7,
+        11.5,
+        10.28
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 64.61,
+    "peakPowerLoad": 23.87,
+    "energyConsumption": {
+      "daily": [
+        25.54,
+        4.43,
+        6.11,
+        17.62,
+        2.36,
+        1.63,
+        6.93
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 80.2,
+    "peakPowerLoad": 42.02,
+    "energyConsumption": {
+      "daily": [
+        3.25,
+        7.44,
+        22.18,
+        7.07,
+        9.07,
+        21.64,
+        9.56
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 88.67,
+    "peakPowerLoad": 73.08,
+    "energyConsumption": {
+      "daily": [
+        0.93,
+        19.71,
+        1.95,
+        31.49,
+        10.96,
+        7.13,
+        16.51
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 67.78,
+    "peakPowerLoad": 90.71,
+    "energyConsumption": {
+      "daily": [
+        12.01,
+        13.41,
+        5.42,
+        8,
+        8.13,
+        13.75,
+        7.05
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 80.01,
+    "peakPowerLoad": 25.22,
+    "energyConsumption": {
+      "daily": [
+        10.15,
+        9.02,
+        8.42,
+        7.55,
+        8.28,
+        19.26,
+        17.32
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 75.18,
+    "peakPowerLoad": 45.67,
+    "energyConsumption": {
+      "daily": [
+        29.63,
+        5.33,
+        2.26,
+        1.44,
+        14.42,
+        18,
+        4.1
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 96.43,
+    "peakPowerLoad": 60.22,
+    "energyConsumption": {
+      "daily": [
+        27.17,
+        22.42,
+        16.93,
+        3.77,
+        2.38,
+        16.69,
+        7.05
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 105.27,
+    "peakPowerLoad": 112.34,
+    "energyConsumption": {
+      "daily": [
+        17.85,
+        1.49,
+        2.03,
+        28.07,
+        25.83,
+        10.72,
+        19.28
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 82.1,
+    "peakPowerLoad": 28.74,
+    "energyConsumption": {
+      "daily": [
+        17.2,
+        9.5,
+        7.37,
+        11.74,
+        15.5,
+        4.28,
+        16.51
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 80.45,
+    "peakPowerLoad": 45.11,
+    "energyConsumption": {
+      "daily": [
+        2.97,
+        16.41,
+        22.61,
+        20.62,
+        7.39,
+        3.23,
+        7.21
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 92.96,
+    "peakPowerLoad": 61.6,
+    "energyConsumption": {
+      "daily": [
+        11.5,
+        22.65,
+        8.48,
+        14.41,
+        11.32,
+        18.11,
+        6.48
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 91.14,
+    "peakPowerLoad": 112.38,
+    "energyConsumption": {
+      "daily": [
+        13.13,
+        23.1,
+        9.01,
+        3.96,
+        3.38,
+        18.07,
+        20.5
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 109.21,
+    "peakPowerLoad": 40.81,
+    "energyConsumption": {
+      "daily": [
+        17.4,
+        8.64,
+        18.53,
+        8.03,
+        9.79,
+        24.9,
+        21.91
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 102.37,
+    "peakPowerLoad": 60.24,
+    "energyConsumption": {
+      "daily": [
+        6.65,
+        15.21,
+        23.09,
+        20.49,
+        10.99,
+        16.27,
+        9.66
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 109.65,
+    "peakPowerLoad": 105.87,
+    "energyConsumption": {
+      "daily": [
+        11.42,
+        7.17,
+        4.15,
+        26.53,
+        27.45,
+        2.34,
+        30.58
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 107.02,
+    "peakPowerLoad": 158.32,
+    "energyConsumption": {
+      "daily": [
+        1.65,
+        21.39,
+        2.52,
+        27.49,
+        16.37,
+        21.18,
+        16.41
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 101.72,
+    "peakPowerLoad": 41.82,
+    "energyConsumption": {
+      "daily": [
+        5.68,
+        14.3,
+        21.62,
+        17.97,
+        4.86,
+        19.03,
+        18.26
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 105.81,
+    "peakPowerLoad": 81.86,
+    "energyConsumption": {
+      "daily": [
+        4.9,
+        26.76,
+        18.01,
+        8.29,
+        24.15,
+        19.03,
+        4.67
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 102.2,
+    "peakPowerLoad": 102.15,
+    "energyConsumption": {
+      "daily": [
+        9.5,
+        26.05,
+        12.99,
+        16.46,
+        0.74,
+        13.54,
+        22.92
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 112.88,
+    "peakPowerLoad": 134.12,
+    "energyConsumption": {
+      "daily": [
+        21.4,
+        18.15,
+        12.1,
+        19.7,
+        9.52,
+        17.25,
+        14.76
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 160.23,
+    "peakPowerLoad": 40.35,
+    "energyConsumption": {
+      "daily": [
+        14.5,
+        28.08,
+        17.72,
+        40.2,
+        17.11,
+        4.12,
+        38.48
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 123.45,
+    "peakPowerLoad": 62.67,
+    "energyConsumption": {
+      "daily": [
+        28.95,
+        13.74,
+        25.39,
+        17.35,
+        6.82,
+        7.52,
+        23.66
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 112.26,
+    "peakPowerLoad": 107.44,
+    "energyConsumption": {
+      "daily": [
+        11.91,
+        14.15,
+        17.49,
+        17.39,
+        17.68,
+        17.11,
+        16.53
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 113.45,
+    "peakPowerLoad": 160.41,
+    "energyConsumption": {
+      "daily": [
+        14.42,
+        20.82,
+        12.58,
+        13.49,
+        28.39,
+        15.96,
+        7.79
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 158.6,
+    "peakPowerLoad": 41.82,
+    "energyConsumption": {
+      "daily": [
+        21.95,
+        10.45,
+        33.24,
+        19.45,
+        31.52,
+        17.84,
+        24.15
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 148.57,
+    "peakPowerLoad": 80.15,
+    "energyConsumption": {
+      "daily": [
+        27.39,
+        32.25,
+        25.73,
+        26.89,
+        1.44,
+        1.15,
+        33.71
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 157.8,
+    "peakPowerLoad": 114.92,
+    "energyConsumption": {
+      "daily": [
+        15.76,
+        2.26,
+        9.11,
+        33.24,
+        3.32,
+        48.24,
+        45.87
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 170.92,
+    "peakPowerLoad": 159.23,
+    "energyConsumption": {
+      "daily": [
+        7.24,
+        30.7,
+        20.79,
+        24.66,
+        29.26,
+        40.39,
+        17.88
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 162.79,
+    "peakPowerLoad": 45.28,
+    "energyConsumption": {
+      "daily": [
+        19.45,
+        10.7,
+        39.2,
+        9.19,
+        39.98,
+        5.92,
+        38.36
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 150.16,
+    "peakPowerLoad": 88.8,
+    "energyConsumption": {
+      "daily": [
+        42.35,
+        1.63,
+        47.09,
+        23.32,
+        19.13,
+        11.86,
+        4.79
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 157.31,
+    "peakPowerLoad": 136.71,
+    "energyConsumption": {
+      "daily": [
+        28.75,
+        44.89,
+        11.09,
+        23.52,
+        18.19,
+        18.06,
+        12.81
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 163.64,
+    "peakPowerLoad": 161.34,
+    "energyConsumption": {
+      "daily": [
+        47.68,
+        15.83,
+        26.24,
+        30.74,
+        3.51,
+        9.71,
+        29.93
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 150.74,
+    "peakPowerLoad": 59.65,
+    "energyConsumption": {
+      "daily": [
+        23.9,
+        36.25,
+        15.76,
+        43.14,
+        14.69,
+        0.82,
+        16.18
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 167.12,
+    "peakPowerLoad": 87.91,
+    "energyConsumption": {
+      "daily": [
+        36.98,
+        2.76,
+        0.94,
+        33,
+        34.34,
+        28.82,
+        30.26
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 132.73,
+    "peakPowerLoad": 127.31,
+    "energyConsumption": {
+      "daily": [
+        2.05,
+        38.25,
+        2.48,
+        0.26,
+        9.55,
+        41.92,
+        38.22
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 168.08,
+    "peakPowerLoad": 179.06,
+    "energyConsumption": {
+      "daily": [
+        44.87,
+        8.84,
+        25.25,
+        6.06,
+        24.57,
+        43.83,
+        14.66
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 172.09,
+    "peakPowerLoad": 48.78,
+    "energyConsumption": {
+      "daily": [
+        6.4,
+        14.62,
+        48.72,
+        3.59,
+        21.4,
+        41.43,
+        35.93
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 209.74,
+    "peakPowerLoad": 87.17,
+    "energyConsumption": {
+      "daily": [
+        5.9,
+        61.88,
+        75.05,
+        5.8,
+        21.43,
+        10.4,
+        29.29
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 200.79,
+    "peakPowerLoad": 139.69,
+    "energyConsumption": {
+      "daily": [
+        41.21,
+        0.41,
+        31.35,
+        14.54,
+        34.12,
+        38.52,
+        40.65
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 146.55,
+    "peakPowerLoad": 196.34,
+    "energyConsumption": {
+      "daily": [
+        19.39,
+        10.28,
+        44.95,
+        15.67,
+        11.58,
+        37.21,
+        7.46
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 182.66,
+    "peakPowerLoad": 47.47,
+    "energyConsumption": {
+      "daily": [
+        22,
+        37.64,
+        31.51,
+        29.9,
+        28.57,
+        3.21,
+        29.84
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 227.74,
+    "peakPowerLoad": 89.19,
+    "energyConsumption": {
+      "daily": [
+        31.83,
+        36.88,
+        43.62,
+        39.97,
+        20.37,
+        37.85,
+        17.23
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 214.83,
+    "peakPowerLoad": 121.67,
+    "energyConsumption": {
+      "daily": [
+        29.3,
+        4.27,
+        45.05,
+        36.86,
+        44.87,
+        22.4,
+        32.08
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 176.19,
+    "peakPowerLoad": 210.2,
+    "energyConsumption": {
+      "daily": [
+        24.47,
+        4.11,
+        39.06,
+        24.05,
+        38.19,
+        18.78,
+        27.54
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 153.7,
+    "peakPowerLoad": 50.15,
+    "energyConsumption": {
+      "daily": [
+        33.44,
+        5.33,
+        7.62,
+        34.77,
+        18.42,
+        18.18,
+        35.94
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 155.38,
+    "peakPowerLoad": 133.57,
+    "energyConsumption": {
+      "daily": [
+        13.87,
+        1.68,
+        61.01,
+        20.02,
+        3.44,
+        2.86,
+        52.51
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 167.99,
+    "peakPowerLoad": 193.76,
+    "energyConsumption": {
+      "daily": [
+        28.15,
+        19.56,
+        4.23,
+        50.4,
+        41.37,
+        18.57,
+        5.71
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 195.49,
+    "peakPowerLoad": 214.7,
+    "energyConsumption": {
+      "daily": [
+        52.22,
+        11.15,
+        22.46,
+        31.19,
+        38.59,
+        31.82,
+        8.07
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 223.19,
+    "peakPowerLoad": 50.83,
+    "energyConsumption": {
+      "daily": [
+        19.35,
+        41.23,
+        33.74,
+        18.17,
+        54.39,
+        40.12,
+        16.18
+      ]
+    },
+    "chargingEvents": {
+      "daily": 12,
+      "weekly": 84
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 225.57,
+    "peakPowerLoad": 140.07,
+    "energyConsumption": {
+      "daily": [
+        7.94,
+        16.58,
+        15.44,
+        28.06,
+        37,
+        78.76,
+        41.79
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 175.31,
+    "peakPowerLoad": 195.51,
+    "energyConsumption": {
+      "daily": [
+        40.02,
+        34.51,
+        15.53,
+        38.53,
+        11.89,
+        26.84,
+        7.99
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 164.79,
+    "peakPowerLoad": 282.15,
+    "energyConsumption": {
+      "daily": [
+        14.24,
+        32.51,
+        2.17,
+        18.31,
+        37.61,
+        21.41,
+        38.55
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 196.37,
+    "peakPowerLoad": 60.37,
+    "energyConsumption": {
+      "daily": [
+        41.08,
+        44.36,
+        50.4,
+        6.18,
+        44.51,
+        3.44,
+        6.39
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 248.91,
+    "peakPowerLoad": 116.25,
+    "energyConsumption": {
+      "daily": [
+        12.8,
+        44.16,
+        14.41,
+        37.66,
+        64.94,
+        54.3,
+        20.64
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 210.84,
+    "peakPowerLoad": 160.89,
+    "energyConsumption": {
+      "daily": [
+        31.04,
+        18.6,
+        20.41,
+        55.23,
+        21.91,
+        21.15,
+        42.49
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 259.32,
+    "peakPowerLoad": 237.83,
+    "energyConsumption": {
+      "daily": [
+        31.11,
+        40.07,
+        60.01,
+        35.6,
+        28.61,
+        53.67,
+        10.24
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 200.8,
+    "peakPowerLoad": 58.95,
+    "energyConsumption": {
+      "daily": [
+        47.96,
+        16.03,
+        13.98,
+        10.69,
+        34.47,
+        37.76,
+        39.91
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 280.63,
+    "peakPowerLoad": 114.21,
+    "energyConsumption": {
+      "daily": [
+        38.84,
+        13.28,
+        34.93,
+        13.23,
+        31.87,
+        96.74,
+        51.74
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 279.77,
+    "peakPowerLoad": 156.29,
+    "energyConsumption": {
+      "daily": [
+        39.38,
+        31.34,
+        47.89,
+        57.16,
+        24.69,
+        67.32,
+        12
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 10,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 248.72,
+    "peakPowerLoad": 288.34,
+    "energyConsumption": {
+      "daily": [
+        31.85,
+        29.58,
+        46.47,
+        29.85,
+        30.65,
+        68.65,
+        11.67
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 46.68,
+    "peakPowerLoad": 15.92,
+    "energyConsumption": {
+      "daily": [
+        4.71,
+        0.85,
+        4.79,
+        10,
+        5.11,
+        9.86,
+        11.36
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 48.49,
+    "peakPowerLoad": 38.07,
+    "energyConsumption": {
+      "daily": [
+        7.04,
+        5.46,
+        3.37,
+        10.66,
+        7.98,
+        7.42,
+        6.55
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 49.26,
+    "peakPowerLoad": 50.59,
+    "energyConsumption": {
+      "daily": [
+        4.16,
+        6,
+        2.08,
+        7.16,
+        9.74,
+        9.6,
+        10.51
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 58.5,
+    "peakPowerLoad": 76.16,
+    "energyConsumption": {
+      "daily": [
+        2.97,
+        11.88,
+        13.56,
+        11.68,
+        9.12,
+        5.85,
+        3.42
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 70.55,
+    "peakPowerLoad": 15.89,
+    "energyConsumption": {
+      "daily": [
+        14.74,
+        1.36,
+        6.8,
+        15.51,
+        2.06,
+        14.66,
+        15.42
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 71.33,
+    "peakPowerLoad": 39.63,
+    "energyConsumption": {
+      "daily": [
+        12.61,
+        12.75,
+        0.2,
+        9.52,
+        15.4,
+        2.79,
+        18.05
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 53.66,
+    "peakPowerLoad": 52.47,
+    "energyConsumption": {
+      "daily": [
+        1.96,
+        3.84,
+        16.07,
+        7.31,
+        5.3,
+        10.15,
+        9.03
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 49.81,
+    "peakPowerLoad": 73.38,
+    "energyConsumption": {
+      "daily": [
+        5.92,
+        6.23,
+        5.39,
+        7.72,
+        10.32,
+        5.49,
+        8.75
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 57.64,
+    "peakPowerLoad": 17.29,
+    "energyConsumption": {
+      "daily": [
+        8.53,
+        11.27,
+        9.45,
+        8.88,
+        4.85,
+        4.84,
+        9.82
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 55.8,
+    "peakPowerLoad": 40.57,
+    "energyConsumption": {
+      "daily": [
+        5.23,
+        10.5,
+        11.66,
+        6.19,
+        4.77,
+        10.47,
+        6.99
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 58.08,
+    "peakPowerLoad": 47.1,
+    "energyConsumption": {
+      "daily": [
+        6.69,
+        12.38,
+        7.75,
+        0.79,
+        10.45,
+        12.16,
+        7.86
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 79.16,
+    "peakPowerLoad": 65.81,
+    "energyConsumption": {
+      "daily": [
+        10.2,
+        14.78,
+        14.16,
+        15.46,
+        5.27,
+        1.11,
+        18.18
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 87.71,
+    "peakPowerLoad": 15.82,
+    "energyConsumption": {
+      "daily": [
+        10.04,
+        20.02,
+        17.27,
+        18.85,
+        15.31,
+        1.97,
+        4.25
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 81.16,
+    "peakPowerLoad": 43.07,
+    "energyConsumption": {
+      "daily": [
+        3.96,
+        20.97,
+        2.73,
+        7.37,
+        21.3,
+        17.94,
+        6.9
+      ]
+    },
+    "chargingEvents": {
+      "daily": 2,
+      "weekly": 14
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 65.68,
+    "peakPowerLoad": 46.26,
+    "energyConsumption": {
+      "daily": [
+        4.25,
+        15.8,
+        9.12,
+        15.58,
+        0.71,
+        2.95,
+        17.27
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 65.96,
+    "peakPowerLoad": 74.12,
+    "energyConsumption": {
+      "daily": [
+        21.79,
+        21.13,
+        8.08,
+        4.46,
+        4.3,
+        0.6,
+        5.6
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 110.75,
+    "peakPowerLoad": 34.66,
+    "energyConsumption": {
+      "daily": [
+        4.38,
+        26.3,
+        13.87,
+        11.41,
+        24.15,
+        22.13,
+        8.5
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 119.02,
+    "peakPowerLoad": 60.17,
+    "energyConsumption": {
+      "daily": [
+        33.14,
+        38.17,
+        21.92,
+        6.67,
+        11.35,
+        2.15,
+        5.63
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 98.13,
+    "peakPowerLoad": 97.28,
+    "energyConsumption": {
+      "daily": [
+        6.42,
+        14.8,
+        10.86,
+        0.76,
+        23.31,
+        20.95,
+        21.04
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 107.03,
+    "peakPowerLoad": 165.46,
+    "energyConsumption": {
+      "daily": [
+        24.84,
+        21.67,
+        8.81,
+        24.57,
+        6.72,
+        11.83,
+        8.6
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 143.38,
+    "peakPowerLoad": 40.89,
+    "energyConsumption": {
+      "daily": [
+        18.66,
+        14.85,
+        38.43,
+        0.48,
+        17.82,
+        16.24,
+        36.9
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 111.42,
+    "peakPowerLoad": 72.43,
+    "energyConsumption": {
+      "daily": [
+        7.99,
+        29.96,
+        12.3,
+        1.42,
+        9.77,
+        33.63,
+        16.36
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 142.65,
+    "peakPowerLoad": 120.51,
+    "energyConsumption": {
+      "daily": [
+        28.75,
+        32.66,
+        16.96,
+        24.05,
+        16.06,
+        13.52,
+        10.66
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 124.46,
+    "peakPowerLoad": 123.26,
+    "energyConsumption": {
+      "daily": [
+        22.45,
+        21.77,
+        2.2,
+        0.54,
+        20.97,
+        40.68,
+        15.85
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 115.28,
+    "peakPowerLoad": 42.72,
+    "energyConsumption": {
+      "daily": [
+        11.53,
+        1.33,
+        26.8,
+        32.28,
+        12.35,
+        6.96,
+        24.02
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 144.23,
+    "peakPowerLoad": 68.39,
+    "energyConsumption": {
+      "daily": [
+        29.23,
+        17.11,
+        25.41,
+        33.41,
+        0.7,
+        16.51,
+        21.87
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 149.84,
+    "peakPowerLoad": 130.22,
+    "energyConsumption": {
+      "daily": [
+        33.97,
+        2.14,
+        11.08,
+        12.24,
+        13.02,
+        54.28,
+        23.11
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 120.14,
+    "peakPowerLoad": 152.79,
+    "energyConsumption": {
+      "daily": [
+        19.52,
+        16.72,
+        23.62,
+        12.19,
+        22.82,
+        2.69,
+        22.58
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 154.55,
+    "peakPowerLoad": 40.25,
+    "energyConsumption": {
+      "daily": [
+        19.76,
+        30.48,
+        12.08,
+        15.36,
+        32.94,
+        21.92,
+        22.01
+      ]
+    },
+    "chargingEvents": {
+      "daily": 6,
+      "weekly": 42
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 125.23,
+    "peakPowerLoad": 85.68,
+    "energyConsumption": {
+      "daily": [
+        9.43,
+        27.12,
+        6.41,
+        27.01,
+        1.22,
+        32.79,
+        21.24
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 134.79,
+    "peakPowerLoad": 91.95,
+    "energyConsumption": {
+      "daily": [
+        19.34,
+        20.1,
+        24.18,
+        14.83,
+        5.41,
+        27.06,
+        23.87
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 151.48,
+    "peakPowerLoad": 146.81,
+    "energyConsumption": {
+      "daily": [
+        7.03,
+        4.08,
+        31.88,
+        22.18,
+        30.16,
+        20.86,
+        35.29
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 171.41,
+    "peakPowerLoad": 66.27,
+    "energyConsumption": {
+      "daily": [
+        1.21,
+        24.44,
+        21.6,
+        38.3,
+        35.77,
+        43.98,
+        6.12
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 184.67,
+    "peakPowerLoad": 121.09,
+    "energyConsumption": {
+      "daily": [
+        16.88,
+        10.72,
+        62.62,
+        17.04,
+        7,
+        43.68,
+        26.72
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 180.35,
+    "peakPowerLoad": 141.89,
+    "energyConsumption": {
+      "daily": [
+        17.54,
+        10.32,
+        41.22,
+        37.21,
+        35.62,
+        23.72,
+        14.72
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 171.18,
+    "peakPowerLoad": 186.77,
+    "energyConsumption": {
+      "daily": [
+        1.48,
+        28.7,
+        11.81,
+        58.56,
+        4.83,
+        25.65,
+        40.16
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 164.96,
+    "peakPowerLoad": 48.36,
+    "energyConsumption": {
+      "daily": [
+        36.03,
+        30.4,
+        23.65,
+        38.42,
+        27,
+        5.17,
+        4.28
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 176.01,
+    "peakPowerLoad": 115.93,
+    "energyConsumption": {
+      "daily": [
+        26.26,
+        1.48,
+        41.54,
+        40.5,
+        61.11,
+        3.11,
+        2.02
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 178.28,
+    "peakPowerLoad": 162.65,
+    "energyConsumption": {
+      "daily": [
+        20.81,
+        31.2,
+        10.22,
+        37.5,
+        19.45,
+        27.1,
+        31.99
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 152.2,
+    "peakPowerLoad": 211.44,
+    "energyConsumption": {
+      "daily": [
+        34.39,
+        29.71,
+        22.4,
+        13.22,
+        20.67,
+        3,
+        28.82
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 208.06,
+    "peakPowerLoad": 52.65,
+    "energyConsumption": {
+      "daily": [
+        51.38,
+        1.84,
+        39.37,
+        36.28,
+        12.14,
+        1.24,
+        65.81
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 238.96,
+    "peakPowerLoad": 95.05,
+    "energyConsumption": {
+      "daily": [
+        38.85,
+        23.32,
+        0.1,
+        30.77,
+        38.28,
+        47.11,
+        60.54
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 177.06,
+    "peakPowerLoad": 165.9,
+    "energyConsumption": {
+      "daily": [
+        29.86,
+        48.9,
+        8.15,
+        19.36,
+        15.55,
+        43.92,
+        11.32
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 182.71,
+    "peakPowerLoad": 187.27,
+    "energyConsumption": {
+      "daily": [
+        42.13,
+        36.91,
+        19.18,
+        6.5,
+        5.28,
+        15.9,
+        56.82
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 197.04,
+    "peakPowerLoad": 46.5,
+    "energyConsumption": {
+      "daily": [
+        39.65,
+        5.59,
+        13.85,
+        41.56,
+        21.88,
+        66.94,
+        7.57
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 222.98,
+    "peakPowerLoad": 125.65,
+    "energyConsumption": {
+      "daily": [
+        3.23,
+        48.55,
+        32.9,
+        41.29,
+        52.31,
+        5.36,
+        39.34
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 264.73,
+    "peakPowerLoad": 137.81,
+    "energyConsumption": {
+      "daily": [
+        63.47,
+        6.08,
+        69.64,
+        37.65,
+        11.17,
+        55.98,
+        20.73
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 265.43,
+    "peakPowerLoad": 245.06,
+    "energyConsumption": {
+      "daily": [
+        26.81,
+        26.61,
+        10.93,
+        58.04,
+        64.64,
+        42.46,
+        35.95
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 233.22,
+    "peakPowerLoad": 68.16,
+    "energyConsumption": {
+      "daily": [
+        3.48,
+        52.72,
+        17.28,
+        58.03,
+        26.89,
+        34.79,
+        40.03
+      ]
+    },
+    "chargingEvents": {
+      "daily": 15,
+      "weekly": 105
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 226.39,
+    "peakPowerLoad": 153.1,
+    "energyConsumption": {
+      "daily": [
+        56.94,
+        21.64,
+        54.11,
+        38.83,
+        8.23,
+        36.34,
+        10.29
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 248.99,
+    "peakPowerLoad": 210.11,
+    "energyConsumption": {
+      "daily": [
+        35.47,
+        19.96,
+        38.17,
+        51.76,
+        42.7,
+        31.56,
+        29.37
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 205.33,
+    "peakPowerLoad": 288.83,
+    "energyConsumption": {
+      "daily": [
+        85.18,
+        46.87,
+        0.33,
+        27.94,
+        6.99,
+        1.78,
+        36.24
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 243.05,
+    "peakPowerLoad": 85.58,
+    "energyConsumption": {
+      "daily": [
+        17.01,
+        41.38,
+        49.06,
+        40.81,
+        8.52,
+        45.45,
+        40.82
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 199.23,
+    "peakPowerLoad": 157.75,
+    "energyConsumption": {
+      "daily": [
+        42.41,
+        38.51,
+        27.29,
+        38.99,
+        5.22,
+        38.5,
+        8.31
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 255.19,
+    "peakPowerLoad": 234.19,
+    "energyConsumption": {
+      "daily": [
+        67.76,
+        53.49,
+        23.51,
+        84.5,
+        9.49,
+        1.56,
+        14.88
+      ]
+    },
+    "chargingEvents": {
+      "daily": 12,
+      "weekly": 84
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 211.27,
+    "peakPowerLoad": 303.21,
+    "energyConsumption": {
+      "daily": [
+        15.23,
+        29.36,
+        35.13,
+        31.5,
+        25.3,
+        27.31,
+        47.44
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 218.35,
+    "peakPowerLoad": 73,
+    "energyConsumption": {
+      "daily": [
+        27.59,
+        11.29,
+        25.84,
+        22.01,
+        51.68,
+        40.31,
+        39.63
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 269.27,
+    "peakPowerLoad": 152.5,
+    "energyConsumption": {
+      "daily": [
+        28.75,
+        52.49,
+        37.43,
+        29.12,
+        57.08,
+        53.11,
+        11.29
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 291.49,
+    "peakPowerLoad": 246.27,
+    "energyConsumption": {
+      "daily": [
+        65.8,
+        25.13,
+        74.08,
+        45.07,
+        27.32,
+        34.2,
+        19.9
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 304.42,
+    "peakPowerLoad": 335.48,
+    "energyConsumption": {
+      "daily": [
+        6.14,
+        77.81,
+        25.76,
+        83.86,
+        39.34,
+        39.33,
+        32.18
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 295.17,
+    "peakPowerLoad": 69.58,
+    "energyConsumption": {
+      "daily": [
+        18.17,
+        77.2,
+        13.58,
+        46.21,
+        63.83,
+        72.13,
+        4.05
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 282.38,
+    "peakPowerLoad": 149.34,
+    "energyConsumption": {
+      "daily": [
+        26.16,
+        62.61,
+        41.53,
+        51.29,
+        41.69,
+        8.44,
+        50.66
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 279.72,
+    "peakPowerLoad": 265.41,
+    "energyConsumption": {
+      "daily": [
+        28.53,
+        30.88,
+        63.75,
+        31.59,
+        49.38,
+        22.35,
+        53.25
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 268.91,
+    "peakPowerLoad": 326.08,
+    "energyConsumption": {
+      "daily": [
+        55.52,
+        1.15,
+        64.53,
+        49.39,
+        27.57,
+        16.72,
+        54.03
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 250.54,
+    "peakPowerLoad": 94.7,
+    "energyConsumption": {
+      "daily": [
+        34.09,
+        59.64,
+        18.1,
+        9.54,
+        64.77,
+        9.4,
+        55
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 306.95,
+    "peakPowerLoad": 177.06,
+    "energyConsumption": {
+      "daily": [
+        57.1,
+        76.95,
+        4.9,
+        41.85,
+        68.57,
+        1.94,
+        55.64
+      ]
+    },
+    "chargingEvents": {
+      "daily": 18,
+      "weekly": 126
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 300.66,
+    "peakPowerLoad": 229.45,
+    "energyConsumption": {
+      "daily": [
+        4.22,
+        70.5,
+        15.27,
+        13.48,
+        98.28,
+        63.55,
+        35.35
+      ]
+    },
+    "chargingEvents": {
+      "daily": 18,
+      "weekly": 126
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 236.22,
+    "peakPowerLoad": 371.15,
+    "energyConsumption": {
+      "daily": [
+        22.35,
+        5.65,
+        31.81,
+        37.2,
+        58.99,
+        43.05,
+        37.17
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 266.91,
+    "peakPowerLoad": 85.62,
+    "energyConsumption": {
+      "daily": [
+        27.95,
+        55.58,
+        31.15,
+        61.09,
+        54.06,
+        12.43,
+        24.64
+      ]
+    },
+    "chargingEvents": {
+      "daily": 12,
+      "weekly": 84
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 316.91,
+    "peakPowerLoad": 205.49,
+    "energyConsumption": {
+      "daily": [
+        89,
+        32.96,
+        14.37,
+        25.43,
+        13.05,
+        54.84,
+        87.26
+      ]
+    },
+    "chargingEvents": {
+      "daily": 17,
+      "weekly": 119
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 256.58,
+    "peakPowerLoad": 240.84,
+    "energyConsumption": {
+      "daily": [
+        9.75,
+        14.85,
+        41.84,
+        27.44,
+        56.93,
+        56.59,
+        49.17
+      ]
+    },
+    "chargingEvents": {
+      "daily": 18,
+      "weekly": 126
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 322.59,
+    "peakPowerLoad": 351.04,
+    "energyConsumption": {
+      "daily": [
+        30.53,
+        58.19,
+        56.85,
+        75.39,
+        15.25,
+        43.19,
+        43.19
+      ]
+    },
+    "chargingEvents": {
+      "daily": 16,
+      "weekly": 112
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 306.36,
+    "peakPowerLoad": 78.63,
+    "energyConsumption": {
+      "daily": [
+        32.72,
+        45.01,
+        6.42,
+        81.47,
+        89.63,
+        30.94,
+        20.17
+      ]
+    },
+    "chargingEvents": {
+      "daily": 18,
+      "weekly": 126
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 365.83,
+    "peakPowerLoad": 192.06,
+    "energyConsumption": {
+      "daily": [
+        75.4,
+        55.01,
+        38.88,
+        7.75,
+        51.25,
+        76.93,
+        60.62
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 299.25,
+    "peakPowerLoad": 329.33,
+    "energyConsumption": {
+      "daily": [
+        44.67,
+        65.75,
+        8.92,
+        20.09,
+        14.9,
+        72.08,
+        72.84
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 292.2,
+    "peakPowerLoad": 433.92,
+    "energyConsumption": {
+      "daily": [
+        57.66,
+        48.23,
+        51.63,
+        6.64,
+        30.82,
+        45.64,
+        51.57
+      ]
+    },
+    "chargingEvents": {
+      "daily": 18,
+      "weekly": 126
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 368.67,
+    "peakPowerLoad": 79.71,
+    "energyConsumption": {
+      "daily": [
+        27.12,
+        38.45,
+        74.74,
+        39.26,
+        105.94,
+        74.21,
+        8.95
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 373.03,
+    "peakPowerLoad": 214.04,
+    "energyConsumption": {
+      "daily": [
+        31.03,
+        3.64,
+        44.82,
+        80.98,
+        48.19,
+        84.51,
+        79.86
+      ]
+    },
+    "chargingEvents": {
+      "daily": 18,
+      "weekly": 126
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 336.98,
+    "peakPowerLoad": 333.29,
+    "energyConsumption": {
+      "daily": [
+        27.57,
+        90.7,
+        72.34,
+        39.22,
+        6.98,
+        83.95,
+        16.23
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 15,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 377.88,
+    "peakPowerLoad": 424.08,
+    "energyConsumption": {
+      "daily": [
+        5.13,
+        54.6,
+        49.92,
+        75.58,
+        22.37,
+        84.47,
+        85.82
+      ]
+    },
+    "chargingEvents": {
+      "daily": 13,
+      "weekly": 91
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 64.62,
+    "peakPowerLoad": 28.41,
+    "energyConsumption": {
+      "daily": [
+        9.97,
+        16.6,
+        11.27,
+        2.06,
+        2.67,
+        15.04,
+        7.01
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 67.64,
+    "peakPowerLoad": 48.54,
+    "energyConsumption": {
+      "daily": [
+        7.94,
+        15.59,
+        12.48,
+        6.68,
+        5.13,
+        14.39,
+        5.42
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 65.96,
+    "peakPowerLoad": 60.81,
+    "energyConsumption": {
+      "daily": [
+        18.7,
+        6.2,
+        2.66,
+        10.13,
+        11.08,
+        4.86,
+        12.33
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 72.81,
+    "peakPowerLoad": 116.82,
+    "energyConsumption": {
+      "daily": [
+        8.31,
+        15,
+        9.27,
+        15.75,
+        9.18,
+        2.26,
+        13.04
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 71.41,
+    "peakPowerLoad": 21.58,
+    "energyConsumption": {
+      "daily": [
+        14.67,
+        18.72,
+        5.42,
+        15.7,
+        0.04,
+        0.53,
+        16.33
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 79.21,
+    "peakPowerLoad": 47.7,
+    "energyConsumption": {
+      "daily": [
+        9.12,
+        16.54,
+        10.3,
+        6.1,
+        10.94,
+        11.19,
+        15.03
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 66.21,
+    "peakPowerLoad": 79.57,
+    "energyConsumption": {
+      "daily": [
+        12.67,
+        10.31,
+        0.14,
+        10.15,
+        5.09,
+        15.06,
+        12.79
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 77.01,
+    "peakPowerLoad": 89.07,
+    "energyConsumption": {
+      "daily": [
+        18.04,
+        4.98,
+        11.08,
+        18.64,
+        2.24,
+        3.33,
+        18.7
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 77.99,
+    "peakPowerLoad": 22.26,
+    "energyConsumption": {
+      "daily": [
+        12.71,
+        13.7,
+        14.28,
+        12.06,
+        3.31,
+        8.23,
+        13.68
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 74.48,
+    "peakPowerLoad": 47.75,
+    "energyConsumption": {
+      "daily": [
+        9.36,
+        9.39,
+        4.9,
+        13.96,
+        15.31,
+        14.4,
+        7.17
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 82.03,
+    "peakPowerLoad": 70.34,
+    "energyConsumption": {
+      "daily": [
+        10.28,
+        6.32,
+        16.43,
+        21.77,
+        2.94,
+        5.87,
+        18.41
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 100.07,
+    "peakPowerLoad": 83.77,
+    "energyConsumption": {
+      "daily": [
+        22.12,
+        9.1,
+        13.63,
+        8.83,
+        14.72,
+        14.15,
+        17.51
+      ]
+    },
+    "chargingEvents": {
+      "daily": 4,
+      "weekly": 28
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 86.3,
+    "peakPowerLoad": 21.56,
+    "energyConsumption": {
+      "daily": [
+        8.4,
+        23.07,
+        14.22,
+        8.38,
+        11.89,
+        8.13,
+        12.21
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 111.54,
+    "peakPowerLoad": 45.19,
+    "energyConsumption": {
+      "daily": [
+        3.68,
+        31.78,
+        8.05,
+        29.19,
+        1.61,
+        30.55,
+        6.69
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 101.26,
+    "peakPowerLoad": 62.89,
+    "energyConsumption": {
+      "daily": [
+        19.96,
+        0.4,
+        21.81,
+        13.77,
+        20.15,
+        10.6,
+        14.57
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 25,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 91.15,
+    "peakPowerLoad": 85.69,
+    "energyConsumption": {
+      "daily": [
+        28.91,
+        7.41,
+        4.91,
+        15.21,
+        18.44,
+        13.31,
+        2.95
+      ]
+    },
+    "chargingEvents": {
+      "daily": 3,
+      "weekly": 21
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 135.02,
+    "peakPowerLoad": 40.57,
+    "energyConsumption": {
+      "daily": [
+        30.66,
+        10.02,
+        28.43,
+        14.35,
+        35.1,
+        15.67,
+        0.79
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 161.3,
+    "peakPowerLoad": 80.47,
+    "energyConsumption": {
+      "daily": [
+        20.79,
+        21.35,
+        0.69,
+        15.49,
+        49.16,
+        2.43,
+        51.39
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 162.34,
+    "peakPowerLoad": 126.29,
+    "energyConsumption": {
+      "daily": [
+        47.34,
+        18,
+        30.28,
+        34.53,
+        23.39,
+        0.84,
+        7.96
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 139.95,
+    "peakPowerLoad": 177.26,
+    "energyConsumption": {
+      "daily": [
+        24.01,
+        18.08,
+        21.84,
+        0.27,
+        12.47,
+        31.95,
+        31.33
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 172.61,
+    "peakPowerLoad": 51.32,
+    "energyConsumption": {
+      "daily": [
+        45.15,
+        26.59,
+        45.05,
+        3.27,
+        10.22,
+        15.13,
+        27.2
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 161.38,
+    "peakPowerLoad": 85.95,
+    "energyConsumption": {
+      "daily": [
+        30.63,
+        19.2,
+        7.17,
+        33.76,
+        11.23,
+        36.32,
+        23.08
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 149.2,
+    "peakPowerLoad": 145.94,
+    "energyConsumption": {
+      "daily": [
+        29.95,
+        35.94,
+        10.35,
+        10.75,
+        0.79,
+        30.31,
+        31.12
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 147.65,
+    "peakPowerLoad": 174.58,
+    "energyConsumption": {
+      "daily": [
+        23.6,
+        40.71,
+        13.78,
+        39.84,
+        20.1,
+        0.96,
+        8.66
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 153.82,
+    "peakPowerLoad": 42.99,
+    "energyConsumption": {
+      "daily": [
+        34.52,
+        17.23,
+        19.92,
+        14,
+        4.04,
+        23.8,
+        40.31
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 182.69,
+    "peakPowerLoad": 97.28,
+    "energyConsumption": {
+      "daily": [
+        42.25,
+        31,
+        11.23,
+        9.31,
+        41.54,
+        8.5,
+        38.86
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 183.22,
+    "peakPowerLoad": 128.29,
+    "energyConsumption": {
+      "daily": [
+        5.23,
+        43.85,
+        23.6,
+        58.71,
+        4.64,
+        3.39,
+        43.81
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 147.56,
+    "peakPowerLoad": 235.73,
+    "energyConsumption": {
+      "daily": [
+        4.67,
+        5.13,
+        3.48,
+        34.69,
+        32.73,
+        44.66,
+        22.2
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 184.33,
+    "peakPowerLoad": 54.35,
+    "energyConsumption": {
+      "daily": [
+        40.73,
+        25.3,
+        41.84,
+        41.93,
+        13.73,
+        12.85,
+        7.94
+      ]
+    },
+    "chargingEvents": {
+      "daily": 7,
+      "weekly": 49
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 170.93,
+    "peakPowerLoad": 96.48,
+    "energyConsumption": {
+      "daily": [
+        22.36,
+        21.63,
+        7.99,
+        47.44,
+        20.97,
+        0.24,
+        50.29
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 184.83,
+    "peakPowerLoad": 130.74,
+    "energyConsumption": {
+      "daily": [
+        29.98,
+        61.53,
+        41.75,
+        26.85,
+        10.08,
+        0.98,
+        13.66
+      ]
+    },
+    "chargingEvents": {
+      "daily": 9,
+      "weekly": 63
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 50,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 185.09,
+    "peakPowerLoad": 199.12,
+    "energyConsumption": {
+      "daily": [
+        8.74,
+        24.21,
+        51.21,
+        38.21,
+        8.92,
+        28.29,
+        25.51
+      ]
+    },
+    "chargingEvents": {
+      "daily": 5,
+      "weekly": 35
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 175.92,
+    "peakPowerLoad": 89.47,
+    "energyConsumption": {
+      "daily": [
+        27.96,
+        9.66,
+        27.89,
+        25.17,
+        24.5,
+        27.65,
+        33.1
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 180.27,
+    "peakPowerLoad": 162.56,
+    "energyConsumption": {
+      "daily": [
+        36.3,
+        56.46,
+        12.39,
+        8.36,
+        10.82,
+        30.48,
+        25.46
+      ]
+    },
+    "chargingEvents": {
+      "daily": 15,
+      "weekly": 105
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 178.3,
+    "peakPowerLoad": 230.1,
+    "energyConsumption": {
+      "daily": [
+        24.54,
+        19.67,
+        23.77,
+        25.67,
+        30.33,
+        25.87,
+        28.46
+      ]
+    },
+    "chargingEvents": {
+      "daily": 13,
+      "weekly": 91
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 174.43,
+    "peakPowerLoad": 353.17,
+    "energyConsumption": {
+      "daily": [
+        38.4,
+        34.23,
+        13.26,
+        6.99,
+        36.62,
+        15.04,
+        29.9
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 286.17,
+    "peakPowerLoad": 78.51,
+    "energyConsumption": {
+      "daily": [
+        67.17,
+        1.4,
+        43.04,
+        43.15,
+        61.13,
+        2.27,
+        68.01
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 210.77,
+    "peakPowerLoad": 143.65,
+    "energyConsumption": {
+      "daily": [
+        32.87,
+        46.94,
+        11.49,
+        27.78,
+        30.42,
+        6.25,
+        55.03
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 273.77,
+    "peakPowerLoad": 218.04,
+    "energyConsumption": {
+      "daily": [
+        41.34,
+        37.59,
+        62.55,
+        17.67,
+        65.02,
+        10.88,
+        38.71
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 243.86,
+    "peakPowerLoad": 313.26,
+    "energyConsumption": {
+      "daily": [
+        42.23,
+        17.88,
+        1.68,
+        62.71,
+        31.34,
+        60.08,
+        27.93
+      ]
+    },
+    "chargingEvents": {
+      "daily": 10,
+      "weekly": 70
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 231.73,
+    "peakPowerLoad": 89.69,
+    "energyConsumption": {
+      "daily": [
+        17.77,
+        25.73,
+        60.85,
+        44.36,
+        37.36,
+        6.55,
+        39.1
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 275.07,
+    "peakPowerLoad": 160.86,
+    "energyConsumption": {
+      "daily": [
+        4.15,
+        62.07,
+        6.62,
+        70.06,
+        40.54,
+        37.83,
+        53.8
+      ]
+    },
+    "chargingEvents": {
+      "daily": 8,
+      "weekly": 56
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 240.57,
+    "peakPowerLoad": 223.09,
+    "energyConsumption": {
+      "daily": [
+        29.59,
+        11.92,
+        8.34,
+        49.92,
+        48.05,
+        51.5,
+        41.26
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 229.29,
+    "peakPowerLoad": 255.31,
+    "energyConsumption": {
+      "daily": [
+        27.13,
+        52.63,
+        3.37,
+        22.83,
+        60.51,
+        26.08,
+        36.74
+      ]
+    },
+    "chargingEvents": {
+      "daily": 15,
+      "weekly": 105
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 289.63,
+    "peakPowerLoad": 67.22,
+    "energyConsumption": {
+      "daily": [
+        23.55,
+        45.98,
+        65.54,
+        60.33,
+        70.23,
+        21.98,
+        2.02
+      ]
+    },
+    "chargingEvents": {
+      "daily": 12,
+      "weekly": 84
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 288.45,
+    "peakPowerLoad": 174.26,
+    "energyConsumption": {
+      "daily": [
+        23.05,
+        2.96,
+        25.22,
+        18.86,
+        84.28,
+        95.01,
+        39.06
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 326.41,
+    "peakPowerLoad": 193.06,
+    "energyConsumption": {
+      "daily": [
+        84.05,
+        45.49,
+        100.97,
+        19.15,
+        5.01,
+        11.03,
+        60.71
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 75,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 351.97,
+    "peakPowerLoad": 320.76,
+    "energyConsumption": {
+      "daily": [
+        63.31,
+        6.8,
+        121,
+        9.37,
+        9.88,
+        30.3,
+        111.3
+      ]
+    },
+    "chargingEvents": {
+      "daily": 12,
+      "weekly": 84
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 279.78,
+    "peakPowerLoad": 98.24,
+    "energyConsumption": {
+      "daily": [
+        39.3,
+        54.45,
+        20.8,
+        20.71,
+        47.11,
+        46.72,
+        50.69
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 317.85,
+    "peakPowerLoad": 223.97,
+    "energyConsumption": {
+      "daily": [
+        76.11,
+        18.1,
+        13.41,
+        77.87,
+        51.69,
+        70.59,
+        10.08
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 280.74,
+    "peakPowerLoad": 332.93,
+    "energyConsumption": {
+      "daily": [
+        81.06,
+        8.75,
+        17.31,
+        78.56,
+        36.29,
+        3.54,
+        55.22
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 299.88,
+    "peakPowerLoad": 343.88,
+    "energyConsumption": {
+      "daily": [
+        55.7,
+        16.63,
+        20.05,
+        66.91,
+        73.06,
+        65.06,
+        2.47
+      ]
+    },
+    "chargingEvents": {
+      "daily": 12,
+      "weekly": 84
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 357.64,
+    "peakPowerLoad": 97.91,
+    "energyConsumption": {
+      "daily": [
+        15.17,
+        36.95,
+        76.68,
+        73,
+        13.48,
+        84.65,
+        57.72
+      ]
+    },
+    "chargingEvents": {
+      "daily": 19,
+      "weekly": 133
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 296.81,
+    "peakPowerLoad": 185.71,
+    "energyConsumption": {
+      "daily": [
+        54.88,
+        44.86,
+        10.42,
+        57.17,
+        74.58,
+        47.8,
+        7.1
+      ]
+    },
+    "chargingEvents": {
+      "daily": 16,
+      "weekly": 112
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 383.17,
+    "peakPowerLoad": 323.48,
+    "energyConsumption": {
+      "daily": [
+        71.33,
+        90.73,
+        16.42,
+        13.58,
+        72.2,
+        52.56,
+        66.36
+      ]
+    },
+    "chargingEvents": {
+      "daily": 18,
+      "weekly": 126
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 330.55,
+    "peakPowerLoad": 415.54,
+    "energyConsumption": {
+      "daily": [
+        8.95,
+        62.49,
+        13.33,
+        55.33,
+        77.87,
+        42.08,
+        70.51
+      ]
+    },
+    "chargingEvents": {
+      "daily": 15,
+      "weekly": 105
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 305.76,
+    "peakPowerLoad": 104.59,
+    "energyConsumption": {
+      "daily": [
+        83.98,
+        93.09,
+        12.22,
+        22.66,
+        19.11,
+        40.14,
+        34.56
+      ]
+    },
+    "chargingEvents": {
+      "daily": 16,
+      "weekly": 112
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 347.44,
+    "peakPowerLoad": 210.71,
+    "energyConsumption": {
+      "daily": [
+        75.15,
+        60.84,
+        78.47,
+        56.63,
+        20.48,
+        7.86,
+        48
+      ]
+    },
+    "chargingEvents": {
+      "daily": 13,
+      "weekly": 91
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 410.05,
+    "peakPowerLoad": 293.06,
+    "energyConsumption": {
+      "daily": [
+        52.97,
+        60.05,
+        63.71,
+        14.86,
+        79.37,
+        87.98,
+        51.11
+      ]
+    },
+    "chargingEvents": {
+      "daily": 15,
+      "weekly": 105
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 321.97,
+    "peakPowerLoad": 322.12,
+    "energyConsumption": {
+      "daily": [
+        6.88,
+        53.49,
+        14.33,
+        101.24,
+        6.96,
+        20.69,
+        118.38
+      ]
+    },
+    "chargingEvents": {
+      "daily": 15,
+      "weekly": 105
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 411.17,
+    "peakPowerLoad": 119.88,
+    "energyConsumption": {
+      "daily": [
+        37.11,
+        94.37,
+        73.88,
+        69.14,
+        103.53,
+        16.92,
+        16.22
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 469.91,
+    "peakPowerLoad": 228.05,
+    "energyConsumption": {
+      "daily": [
+        94.37,
+        8.61,
+        90.05,
+        39.92,
+        91.39,
+        72.96,
+        72.61
+      ]
+    },
+    "chargingEvents": {
+      "daily": 13,
+      "weekly": 91
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 386.33,
+    "peakPowerLoad": 352.83,
+    "energyConsumption": {
+      "daily": [
+        75.16,
+        55.71,
+        34.77,
+        38.68,
+        70.67,
+        71.15,
+        40.19
+      ]
+    },
+    "chargingEvents": {
+      "daily": 11,
+      "weekly": 77
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 100,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 354.87,
+    "peakPowerLoad": 442.39,
+    "energyConsumption": {
+      "daily": [
+        46.98,
+        69.7,
+        50.95,
+        48.27,
+        59.8,
+        72.94,
+        6.23
+      ]
+    },
+    "chargingEvents": {
+      "daily": 20,
+      "weekly": 140
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 5,
+    "totalEnergyCharged": 334.98,
+    "peakPowerLoad": 112.37,
+    "energyConsumption": {
+      "daily": [
+        67.88,
+        31.72,
+        42.52,
+        11.36,
+        35.23,
+        66.1,
+        80.17
+      ]
+    },
+    "chargingEvents": {
+      "daily": 22,
+      "weekly": 154
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 10,
+    "totalEnergyCharged": 361.06,
+    "peakPowerLoad": 234.61,
+    "energyConsumption": {
+      "daily": [
+        69.59,
+        29.7,
+        59.39,
+        54.04,
+        2.69,
+        0.47,
+        145.18
+      ]
+    },
+    "chargingEvents": {
+      "daily": 15,
+      "weekly": 105
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 15,
+    "totalEnergyCharged": 280.73,
+    "peakPowerLoad": 405.37,
+    "energyConsumption": {
+      "daily": [
+        36.72,
+        51.53,
+        0.87,
+        58.11,
+        46.2,
+        53.11,
+        34.18
+      ]
+    },
+    "chargingEvents": {
+      "daily": 16,
+      "weekly": 112
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 14,
+    "chargingPower": 20,
+    "totalEnergyCharged": 365.83,
+    "peakPowerLoad": 531.53,
+    "energyConsumption": {
+      "daily": [
+        61.58,
+        81.25,
+        71.84,
+        9.65,
+        77.2,
+        0.38,
+        63.93
+      ]
+    },
+    "chargingEvents": {
+      "daily": 25,
+      "weekly": 175
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 5,
+    "totalEnergyCharged": 337.49,
+    "peakPowerLoad": 100.27,
+    "energyConsumption": {
+      "daily": [
+        86.47,
+        53.64,
+        44.29,
+        78.37,
+        22.88,
+        44.9,
+        6.94
+      ]
+    },
+    "chargingEvents": {
+      "daily": 21,
+      "weekly": 147
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 10,
+    "totalEnergyCharged": 374.2,
+    "peakPowerLoad": 250.63,
+    "energyConsumption": {
+      "daily": [
+        56.8,
+        71.29,
+        76.78,
+        33.32,
+        13.16,
+        42.83,
+        80.02
+      ]
+    },
+    "chargingEvents": {
+      "daily": 20,
+      "weekly": 140
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 15,
+    "totalEnergyCharged": 447.6,
+    "peakPowerLoad": 338.94,
+    "energyConsumption": {
+      "daily": [
+        103.91,
+        153.92,
+        1.58,
+        73.13,
+        2.3,
+        77.15,
+        35.61
+      ]
+    },
+    "chargingEvents": {
+      "daily": 19,
+      "weekly": 133
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 16,
+    "chargingPower": 20,
+    "totalEnergyCharged": 389.84,
+    "peakPowerLoad": 584.46,
+    "energyConsumption": {
+      "daily": [
+        65.59,
+        52.1,
+        17.99,
+        74.26,
+        66.28,
+        75.11,
+        38.51
+      ]
+    },
+    "chargingEvents": {
+      "daily": 17,
+      "weekly": 119
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 5,
+    "totalEnergyCharged": 388.95,
+    "peakPowerLoad": 108.81,
+    "energyConsumption": {
+      "daily": [
+        65.48,
+        20.35,
+        41.37,
+        86.61,
+        81.49,
+        24.31,
+        69.33
+      ]
+    },
+    "chargingEvents": {
+      "daily": 19,
+      "weekly": 133
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 10,
+    "totalEnergyCharged": 379.64,
+    "peakPowerLoad": 246.11,
+    "energyConsumption": {
+      "daily": [
+        21.09,
+        75.51,
+        12.9,
+        77.25,
+        92.63,
+        55.96,
+        44.29
+      ]
+    },
+    "chargingEvents": {
+      "daily": 14,
+      "weekly": 98
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 15,
+    "totalEnergyCharged": 369.39,
+    "peakPowerLoad": 349.63,
+    "energyConsumption": {
+      "daily": [
+        13.85,
+        93.49,
+        18.03,
+        0.91,
+        67.08,
+        80.89,
+        95.14
+      ]
+    },
+    "chargingEvents": {
+      "daily": 13,
+      "weekly": 91
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 18,
+    "chargingPower": 20,
+    "totalEnergyCharged": 490.14,
+    "peakPowerLoad": 525.42,
+    "energyConsumption": {
+      "daily": [
+        86.56,
+        114.08,
+        5.57,
+        68.54,
+        61.04,
+        117.08,
+        37.27
+      ]
+    },
+    "chargingEvents": {
+      "daily": 19,
+      "weekly": 133
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 5,
+    "totalEnergyCharged": 535.4,
+    "peakPowerLoad": 108.37,
+    "energyConsumption": {
+      "daily": [
+        80.08,
+        91.14,
+        4.5,
+        71.6,
+        94.55,
+        30.19,
+        163.34
+      ]
+    },
+    "chargingEvents": {
+      "daily": 23,
+      "weekly": 161
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 10,
+    "totalEnergyCharged": 423.82,
+    "peakPowerLoad": 208.04,
+    "energyConsumption": {
+      "daily": [
+        34.69,
+        49.37,
+        91.93,
+        28.44,
+        63.93,
+        108.07,
+        47.4
+      ]
+    },
+    "chargingEvents": {
+      "daily": 13,
+      "weekly": 91
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 15,
+    "totalEnergyCharged": 405.82,
+    "peakPowerLoad": 365.33,
+    "energyConsumption": {
+      "daily": [
+        77.07,
+        44.27,
+        19.38,
+        97.77,
+        68.54,
+        45.96,
+        52.82
+      ]
+    },
+    "chargingEvents": {
+      "daily": 19,
+      "weekly": 133
+    }
+  },
+  {
+    "chargingStations": 20,
+    "arrivalProbability": 125,
+    "carConsumption": 20,
+    "chargingPower": 20,
+    "totalEnergyCharged": 496.02,
+    "peakPowerLoad": 510.46,
+    "energyConsumption": {
+      "daily": [
+        37.06,
+        124.2,
+        127.17,
+        6.93,
+        40.61,
+        61.95,
+        98.11
+      ]
+    },
+    "chargingEvents": {
+      "daily": 24,
+      "weekly": 168
+    }
+  }
+]

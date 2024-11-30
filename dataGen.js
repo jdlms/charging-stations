@@ -1,10 +1,10 @@
 import { writeFileSync } from "fs";
 
 function generateDummyData() {
-  const chargingStations = [5, 10, 15, 20];
-  const arrivalProbabilities = [20, 50, 100, 200]; // %
-  const carConsumptions = [12, 16, 18, 20]; // kWh
-  const chargingPowers = [7, 11, 15, 20]; // kW
+  const chargingStations = [5, 10, 15, 20]; // #
+  const arrivalProbabilities = [25, 50, 75, 100, 125]; // %
+  const carConsumptions = [14, 16, 18, 20]; // kWh
+  const chargingPowers = [5, 10, 15, 20]; // kW
 
   const dummyData = [];
 

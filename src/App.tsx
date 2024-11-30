@@ -4,8 +4,7 @@ import "./App.css";
 
 function App() {
   const [formState, setFormState] = useState({
-    value: 50,
-    calculated: 100,
+    charging: { value: 50, calculated: 100 },
   });
 
   const handleInputChange = (value: number) => {
@@ -19,7 +18,6 @@ function App() {
   return (
     <>
       <h1 className="text-3xl font-bold ">Charging Station Tool</h1>
-      <h1>Charging Stations</h1>
       <Inputs formState={formState} onInputChange={handleInputChange} />
       <p>Selected Value: {formState.value}</p>
       <p>Calculated Value: {formState.calculated}</p>

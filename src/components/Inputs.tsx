@@ -1,29 +1,34 @@
-type InputsProps = {
-  formState: {
-    value: number;
-    calculated: number;
-  };
-  onInputChange: (value: number) => void;
-};
+import { InputsProps } from "../types";
 
-//   chargingStations: number;
-//   arrivalProbability: number;
-//   carConsumption: number;
-//   chargingPower: number;
-
-const toggles = [
-  { title: "Charging stations", id: "charging", amounts: [0, 25, 50, 75, 100] },
+const ranges = [
+  {
+    title: "Charging stations",
+    id: "charging",
+    metric: "number",
+    scale: [5, 10, 15, 20],
+    step: 5,
+  },
   {
     title: "Arrival probability",
     id: "arrival",
-    amounts: [0, 25, 50, 75, 100],
+    metric: "percent",
+    scale: [25, 50, 75, 100, 125],
+    step: 25,
   },
   {
     title: "Car consumption",
     id: "consumption",
-    amounts: [0, 25, 50, 75, 100],
+    metric: "kwh",
+    scale: [14, 16, 18, 20],
+    step: 2,
   },
-  { title: "Charging power", id: "power", amounts: [0, 25, 50, 75, 100] },
+  {
+    title: "Charging power",
+    id: "power",
+    metric: "kw",
+    scale: [5, 10, 15, 20],
+    step: 5,
+  },
 ];
 
 export default function Inputs({ formState, onInputChange }: InputsProps) {
@@ -35,30 +40,28 @@ export default function Inputs({ formState, onInputChange }: InputsProps) {
   return (
     <>
       <div className="flex flex-col w-56">
-        {toggles.map((toggle) => (
+        {ranges.map((range) => (
           <div className="gap-8 mb-6">
-            <label htmlFor="temp" className="text-xs whitespace-nowrap">
-              {toggle.title}
+            <label htmlFor={range.id} className="text-xs whitespace-nowrap">
+              {range.title}
             </label>
             <div className="relative flex-grow">
               <input
                 type="range"
-                id={toggle.id}
-                name={toggle.id}
+                id={range.id}
+                name={range.id}
                 list="markers"
-                className="w-full focus:ring-1 focus:ring-[#ecd67e]"
-                min="0"
-                max="100"
-                step="25"
+                className="w-full"
+                min={`${range.scale[0]}`}
+                max={range.scale.at(-1)}
+                step={range.scale[1] - range.scale[0]}
                 value={formState.value}
                 onChange={handleChange}
               />
               <div className="flex justify-between absolute top-7 w-full ml-1 text-xs">
-                <span>0</span>
-                <span>25</span>
-                <span>50</span>
-                <span>75</span>
-                <span>100</span>
+                {range.scale.map((num) => (
+                  <span>{num}</span>
+                ))}
               </div>
             </div>
           </div>
