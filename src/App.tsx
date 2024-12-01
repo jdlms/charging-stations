@@ -1,5 +1,7 @@
 import { useState } from "react";
 import Inputs from "./components/Inputs";
+import data from "../dummyData.json";
+import { Data } from "./types";
 import "./App.css";
 
 function App() {
@@ -12,18 +14,34 @@ function App() {
   });
 
   type FormStateKeys = keyof typeof formState;
+  function findMatchingObject(data: Data[], currentState: typeof formState) {
+    return data.find(
+      (entry: Data) =>
+        entry.chargingStations === currentState.charging.value &&
+        entry.arrivalProbability === currentState.arrival.value &&
+        entry.carConsumption === currentState.consumption.value &&
+        entry.chargingPower === currentState.power.value
+    );
+  }
 
   const menuClick = () => {
     setMenuState(!menuState);
   };
 
   const handleInputChange = (name: FormStateKeys, value: number) => {
-    setFormState((prev) => ({
-      ...prev,
-      [name]: {
-        value,
-      },
-    }));
+    setFormState((prev) => {
+      const newState = {
+        ...prev,
+        [name]: {
+          value,
+        },
+      };
+
+      const match = findMatchingObject(data, newState);
+      console.log("Matching object:", match);
+
+      return newState;
+    });
   };
 
   return (

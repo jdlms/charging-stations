@@ -7,3 +7,20 @@ export interface InputsProps {
         value: number
     ) => void;
 }
+
+
+export interface Data {
+    chargingStations: number;
+    arrivalProbability: number;
+    carConsumption: number;
+    chargingPower: number;
+    totalEnergyCharged: number;
+    peakPowerLoad: number;
+    energyConsumption: {
+        daily: number[];
+    };
+    chargingEvents: {
+        daily: number;
+        weekly: number;
+    };
+}
