@@ -29,12 +29,15 @@ const ranges = [
     scale: [5, 10, 15, 20],
     step: 5,
   },
-];
+] as const;
 
 export default function Inputs({ formState, onInputChange }: InputsProps) {
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>): void => {
-    const selectedValue = Number(e.target.value);
-    onInputChange(selectedValue);
+    const { name, value } = e.target;
+    onInputChange(
+      name as "charging" | "arrival" | "consumption" | "power",
+      Number(value)
+    );
   };
 
   return (
@@ -55,7 +58,7 @@ export default function Inputs({ formState, onInputChange }: InputsProps) {
                 min={`${range.scale[0]}`}
                 max={range.scale.at(-1)}
                 step={range.scale[1] - range.scale[0]}
-                value={formState.charging.value}
+                value={formState[range.id].value}
                 onChange={handleChange}
               />
               <div className="flex justify-between absolute top-7 w-full ml-1 text-xs">

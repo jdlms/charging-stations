@@ -1,18 +1,9 @@
-export type InputsProps = {
+export interface InputsProps {
     formState: {
-        charging: {
-            value: number;
-            calculated: number;
-        };
-        // arrival: {
-        //     value: number;
-        //     calculated: number;
-        // };
-        // consumption: {
-        //     value: number;
-        //     calculated: number;
-        // };
-        // power: { value: number; calculated: number };
+        [key in "charging" | "arrival" | "consumption" | "power"]: { value: number };
     };
-    onInputChange: (value: number) => void;
-};
+    onInputChange: (
+        name: "charging" | "arrival" | "consumption" | "power",
+        value: number
+    ) => void;
+}
