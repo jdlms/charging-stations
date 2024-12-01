@@ -3,9 +3,14 @@ import Inputs from "./components/Inputs";
 import "./App.css";
 
 function App() {
+  const [menuState, setMenuState] = useState(false);
   const [formState, setFormState] = useState({
     charging: { value: 50, calculated: 100 },
   });
+
+  const menuClick = () => {
+    setMenuState(!menuState);
+  };
 
   const handleInputChange = (value: number) => {
     setFormState((prev) => ({
@@ -18,9 +23,19 @@ function App() {
   return (
     <>
       <h1 className="text-3xl font-bold ">Charging Station Tool</h1>
-      <Inputs formState={formState} onInputChange={handleInputChange} />
-      <p>Selected Value: {formState.value}</p>
-      <p>Calculated Value: {formState.calculated}</p>
+      {!menuState ? (
+        <div>
+          <span onClick={menuClick}>Open menu</span>
+        </div>
+      ) : (
+        <div>
+          <span onClick={menuClick}>Open menu</span>
+          <Inputs formState={formState} onInputChange={handleInputChange} />
+        </div>
+      )}
+
+      <p>Selected Value: {formState.charging.value}</p>
+      <p>Calculated Value: {formState.charging.calculated}</p>
     </>
   );
 }

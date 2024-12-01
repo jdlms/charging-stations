@@ -39,7 +39,7 @@ export default function Inputs({ formState, onInputChange }: InputsProps) {
 
   return (
     <>
-      <div className="flex flex-col w-56">
+      <div className="flex flex-col w-64 p-5 rounded-md bg-gray-800">
         {ranges.map((range) => (
           <div className="gap-8 mb-6">
             <label htmlFor={range.id} className="text-xs whitespace-nowrap">
@@ -55,7 +55,7 @@ export default function Inputs({ formState, onInputChange }: InputsProps) {
                 min={`${range.scale[0]}`}
                 max={range.scale.at(-1)}
                 step={range.scale[1] - range.scale[0]}
-                value={formState.value}
+                value={formState.charging.value}
                 onChange={handleChange}
               />
               <div className="flex justify-between absolute top-7 w-full ml-1 text-xs">
