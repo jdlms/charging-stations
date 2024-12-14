@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Inputs from "./components/Inputs";
-import data from "../dummyData.json";
+import data from "../data.json";
 import { Data } from "./types";
 import "./App.css";
 
